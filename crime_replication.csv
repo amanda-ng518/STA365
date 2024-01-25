@@ -1,4 +1,3 @@
-"participant","age","sex","crime_victim","state_anxiety","trait_anxiety","fear_of_crime","country"
 1,55,"Female","Yes",1.70744160654253,2.90169383091186,2.04484417226894,"Scotland"
 2,31,"Male","No",2.85856053532293,2.18987468151438,1.88952784445242,"England"
 3,81,"Female","Yes",1.53187392166598,2.55425368549778,2.58371012713435,"England"
